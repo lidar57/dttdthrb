@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    padding: 15px;
+}
+
+header a, nav a{
+    text-decoration: none;
+    margin: 10px;
+    border: blue solid 4px;
+    color: yellow;
+    background-color: blue;
+    padding: 4px;
+    border-radius: 30px;
+}
+
+header img{
+    width: 100px;
+    border: palegreen solid 5px;
+}
+header p{
+    margin-bottom: 10px;
+}
+
+header{
+    display: flex;
+    background-color: palegreen;
+    border: palegreen solid 5px;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+footer p{
+    border-bottom: chartreuse dotted 3px;
+    border-left: chartreuse dotted 15px;
+}
+
+nav{
+    margin: 20px; 
+}
+
+.p_img{
+    padding: 15px;
+    border: palegreen dotted 6px;
+    background-color: yellow;
+}
+
+p,a,b{
+    font-size: 20px;
+}
+
+h2{
+    color: blue;
+}
